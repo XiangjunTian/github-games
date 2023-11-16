@@ -4,7 +4,7 @@
 
 **Faciliator:** JT@TAKEDA
 
-_italics
+_About me:_ Hi, my name is Jun Tian, This is my frist github page
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
